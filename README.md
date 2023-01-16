@@ -1,1 +1,1 @@
-# Seja Full-Stack com REACT, ASP.NET Core e EF Core
+# Projeto com REACT, ASP.NET Core e EF Core
